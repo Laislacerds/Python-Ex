@@ -7,5 +7,5 @@ m = n1 * n2
 d = n1 / n2
 e = n1 ** n2
 
-print('A soma é {}, a subtração é {} e a multiplicação é {}'.format(s, su, m)) #end='' para não pular linha.
+print('A soma é {}, a subtração é {} e a multiplicação é {}'.format(s, su, m)) 
 print('A divisão é {:.1f}, e sua potência é {}'.format(d, e))
